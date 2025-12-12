@@ -1,4 +1,4 @@
 # Music Through The Years
 ## Owen Smith
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Music has changed so much in its lifetime in the last few decades. New genres have burst into the scene and gained extreme popularity while others faded away. New artists claimed their spot among the greats and commanded the attention of viewers with every new song. One of the biggest changes of the new era of music is how much data is being recorded on every song that releases so people can know what songs were popular and more in depth things like the tempo, beat loudness, and even time signatures. This allows creators to get feedback on what makes a great song and be able to refine their music to make the best possible product. This article will be showing some of the most notable things this dataset can tell us in visual form.
-
+[Image 1](
